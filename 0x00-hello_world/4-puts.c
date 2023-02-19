@@ -2,9 +2,8 @@
 
 /**
  * main - entry point
- * description - 'a program written in puts function'
- * return:0 (success)
- */
+ * Return:0 (success)
+*/
 
 int main(void)
 {
