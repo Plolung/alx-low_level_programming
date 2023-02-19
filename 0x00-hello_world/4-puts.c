@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - write a program that prints with puts function
+ * main - Entry point
+ * Description - 'program that prints with puts funtion description'
  * return: 0 (success)
 */
 
